@@ -6,3 +6,5 @@ Used different type of customized visualization (bar chart,pie chart,donut chart
 area chart, map,slicers,etc)
 ##dashboard Preview
 https://github.com/pawan8manjare/PowerBI-Dashboard-Superstore/blob/main/dashboardsuperstore.pbix
+##Dashboard Screenshot
+https://github.com/pawan8manjare/PowerBI-Dashboard-Superstore/blob/main/superstoredashboard.png
