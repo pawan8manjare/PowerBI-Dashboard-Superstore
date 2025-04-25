@@ -1,4 +1,4 @@
-# PowerBI-Dashboard-Superstore
+# PowerBI-E-Commerce Sales Dashboard
 ##Created interactive dashboard to track and analize online sales data
 
 ##Used Complex parameters to drill down in worksheet and customization using filetrs and slicers
